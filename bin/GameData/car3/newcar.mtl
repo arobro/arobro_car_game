@@ -1,0 +1,226 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.08.2013 13:32:40
+
+newmtl bmw_m3_gt2_wheel_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \bmw_m3_gt2_wheel_diffuse_00.png
+	map_Kd \bmw_m3_gt2_wheel_diffuse_00.png
+
+newmtl generic_chassis_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \common_chassis_diffuse.png
+	map_Kd \common_chassis_diffuse.png
+
+newmtl bmw_m3_gt2_misc_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \bmw_m3_gt2_misc_diffuse.png
+	map_Kd \bmw_m3_gt2_misc_diffuse.png
+
+newmtl bmw_m3_gt2_engine_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \bmw_m3_gt2_engine_diffuse.png
+	map_Kd \bmw_m3_gt2_engine_diffuse.png
+
+newmtl bmw_m3_gt2_tyre_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \bmw_m3_gt2_wheel_diffuse_00.png
+	map_Kd \bmw_m3_gt2_wheel_diffuse_00.png
+
+newmtl bmw_m3_gt2_tread_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \tread_slick1_diffuse_00.png
+	map_Kd \tread_slick1_diffuse_00.png
+
+newmtl generic_lightflares_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \common_lightflares.png
+	map_Kd \common_lightflares.png
+
+newmtl bmw_m3_gt2_disc_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \common_disk02_diffuse.png
+	map_Kd \common_disk02_diffuse.png
+
+newmtl bmw_m3_gt2_badges_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \bmw_m3_gt2_badging_diffuse.png
+	map_Kd \bmw_m3_gt2_badging_diffuse.png
+
+newmtl bmw_m3_gt2_paint_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \common_paint.png
+	map_Kd \common_paint.png
+
+newmtl generic_carbon_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \common_carbon3_black_diffuse.png
+	map_Kd \common_carbon3_black_diffuse.png
+
+newmtl bmw_m3_gt2_paint_interior_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \common_paint.png
+	map_Kd \common_paint.png
+
+newmtl bmw_m3_gt2_interior_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \bmw_m3_gt2_interior_diffuse.png
+	map_Kd \bmw_m3_gt2_interior_diffuse.png
+
+newmtl generic_light_glass_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \common_light_glass_diffuse.png
+	map_Kd \common_light_glass_diffuse.png
+
+newmtl bmw_m3_gt2_lights_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \bmw_m3_gt2_lights_diffuse.png
+	map_Kd \bmw_m3_gt2_lights_diffuse.png
+
+newmtl bmw_m3_gt2_windows_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka \bmw_m3_gt2_banner_diffuse.png
+	map_Kd \bmw_m3_gt2_banner_diffuse.png

@@ -1,0 +1,226 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.08.2013 12:31:57
+
+newmtl bmw_m3_gt2_wheel_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_wheel_diffuse_00.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_wheel_diffuse_00.dds
+
+newmtl generic_chassis_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\common_chassis_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\common_chassis_diffuse.dds
+
+newmtl bmw_m3_gt2_misc_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_misc_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_misc_diffuse.dds
+
+newmtl bmw_m3_gt2_engine_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_engine_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_engine_diffuse.dds
+
+newmtl bmw_m3_gt2_tyre_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_wheel_diffuse_00.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_wheel_diffuse_00.dds
+
+newmtl bmw_m3_gt2_tread_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\tread_slick1_diffuse_00.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\tread_slick1_diffuse_00.dds
+
+newmtl generic_lightflares_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\common_lightflares.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\common_lightflares.dds
+
+newmtl bmw_m3_gt2_disc_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\common_disk02_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\common_disk02_diffuse.dds
+
+newmtl bmw_m3_gt2_badges_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_badging_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_badging_diffuse.dds
+
+newmtl bmw_m3_gt2_paint_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\common_paint.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\common_paint.dds
+
+newmtl generic_carbon_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\common_carbon3_black_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\common_carbon3_black_diffuse.dds
+
+newmtl bmw_m3_gt2_paint_interior_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\common_paint.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\common_paint.dds
+
+newmtl bmw_m3_gt2_interior_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_interior_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_interior_diffuse.dds
+
+newmtl generic_light_glass_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\common_light_glass_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\common_light_glass_diffuse.dds
+
+newmtl bmw_m3_gt2_lights_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_lights_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_lights_diffuse.dds
+
+newmtl bmw_m3_gt2_windows_material
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_banner_diffuse.dds
+	map_Kd c:\users\aidan\desktop\car\vehicles\textures\bmw_m3_gt2_banner_diffuse.dds
